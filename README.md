@@ -8,8 +8,8 @@ Model the demand for shared bikes with the available independent variables. It w
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Modules Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Modules Used](#Modules-Used)
+* [Conclusions](#Conclusions)
 
 
 ## General Information
