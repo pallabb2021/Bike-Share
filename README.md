@@ -33,3 +33,4 @@ BoomBikes, a US bike-sharing provider, has faced significant revenue declines du
 - Holiday has a negative coefficient, meaning demand goes down on holidays.
 - Few months are preferred like Sep which has a positive coefficient which matches with EDA analysis.
 - Wind speed shows a negative coefficient, demand goes down with wind speed is more.
+-  Equation of line becomes/Bike Demand = const*0.12 + yr*0.23 + holiday*-0.1 + temp*0.57 + windspeed*-0.15 + season_summer*0.08 + season_winter*0.13 + weathersit_Light Snow & Rain*-0.28 + weathersit_Mist  & Cloudy*-0.08 + mnth_Jul*-0.04 + mnth_Sep*0.09
