@@ -26,7 +26,7 @@ BoomBikes, a US bike-sharing provider, has faced significant revenue declines du
 
 ## Conclusions
 
-- Year progression show increase in bike demand in 2018.
+- Year progression show increase in bike demand in 2019.
 - Temperature is a strong factor, demand goes down in low temperatures.
 - Summer and winter shows more bike demand compared to other seasons.
 - Rain, cloudy and misty weather decreases the demand, clear weather is preferred.
